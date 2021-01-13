@@ -9,7 +9,6 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 85px;
 }
 .logo {
   position: relative;
@@ -91,7 +90,7 @@ body {
   width: 100%;
 }
 .main {
-  padding: 18px 55% 100px 0;
+  padding: 103px 55% 100px 0;
   background: no-repeat url(img/Frame.svg);
   background-position: bottom 65px right;
 }
