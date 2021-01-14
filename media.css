@@ -1,4 +1,4 @@
-@media (max-width: 1920px) {
+@media (min-width: 1920px) {
   .header {
     margin-bottom: 102px;
   }
@@ -44,7 +44,7 @@
     margin-right: 8px;
   }
 }
-@media (max-width: 1366px) {
+@media (min-width: 1366px) {
   .wrapper {
     width: 68%;
     margin: auto;
